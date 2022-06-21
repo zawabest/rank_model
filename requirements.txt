@@ -1,6 +1,6 @@
 elasticsearch==7.1.0
 joblib==0.14.0
-numpy==1.17.4
+numpy==1.22.0
 pandas==0.25.3
 pandasticsearch==0.5.3
 python-dateutil==2.8.1
